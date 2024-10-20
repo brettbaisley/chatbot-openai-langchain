@@ -1,0 +1,8 @@
+python-dotenv
+pymupdf
+requests
+beautifulsoup4
+openai
+langchain
+langchain-openai
+Flask
